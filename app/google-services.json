@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208724461974",
+    "project_id": "registerationlogin-eaddf",
+    "storage_bucket": "registerationlogin-eaddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208724461974:android:2bb9e8d51adec7c360b5b7",
+        "android_client_info": {
+          "package_name": "com.example.heechintong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208724461974-t783sh1rh027ilatbua6kal62s4go5u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAHs5eJCN5fU2qExHNVpstilYlOGeQrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208724461974-t783sh1rh027ilatbua6kal62s4go5u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
