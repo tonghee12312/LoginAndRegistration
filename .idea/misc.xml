@@ -3,10 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Forge-15/AndroidStudioProjects/HeeChinTong/app/src/main/res/drawable/edittext_background.xml" value="0.1" />
-        <entry key="..\:/Users/Forge-15/AndroidStudioProjects/HeeChinTong/app/src/main/res/layout/activity_login.xml" value="0.17447916666666666" />
-        <entry key="..\:/Users/Forge-15/AndroidStudioProjects/HeeChinTong/app/src/main/res/layout/activity_main.xml" value="0.16041666666666668" />
-        <entry key="..\:/Users/Forge-15/AndroidStudioProjects/HeeChinTong/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Forge-15/Downloads/LoginAndRegistration/LoginAndRegistration/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Forge-15/Downloads/LoginAndRegistration/LoginAndRegistration/app/src/main/res/layout/activity_register.xml" value="0.1" />
       </map>
     </option>
   </component>
