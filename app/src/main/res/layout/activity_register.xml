@@ -36,12 +36,12 @@
         app:srcCompat="@drawable/lettuceee" />
 
     <Button
-        android:id="@+id/buttonSubmitLogin"
+        android:id="@+id/buttonSubmitRegister"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/buttonLogin"
-        android:text="@string/login"
-        android:textColor="#5D4037"
+        android:text="@string/register"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

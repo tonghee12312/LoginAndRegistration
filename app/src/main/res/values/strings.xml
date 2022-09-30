@@ -20,4 +20,7 @@
     <string name="login_here">login here</string>
     <string name="firstname">FirstName</string>
     <string name="lastname">LastName</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
 </resources>
