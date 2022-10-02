@@ -27,8 +27,8 @@
 
     <ImageView
         android:id="@+id/imageViewLogo"
-        android:layout_width="413dp"
-        android:layout_height="221dp"
+        android:layout_width="408dp"
+        android:layout_height="322dp"
         android:contentDescription="@string/logo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:background="@color/buttonLogin"
         android:text="@string/register"
-        android:textColor="@color/white"
+        android:textColor="#5D4037"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,9 +51,9 @@
         android:id="@+id/textViewRegisterLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:text="@string/textViewRegisterLogin"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.467"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextPassword" />
 

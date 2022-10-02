@@ -23,4 +23,10 @@
     <string name="register">Register</string>
     <string name="logout">Logout</string>
     <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="update">Update</string>
+    <string name="bio">Bio</string>
+    <string name="profile_picture">Profile Picture</string>
 </resources>
